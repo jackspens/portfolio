@@ -1,4 +1,3 @@
-import React from 'react';
 import { Github, Linkedin, Mail, ArrowRight, Code2 } from 'lucide-react';
 
 function App() {
